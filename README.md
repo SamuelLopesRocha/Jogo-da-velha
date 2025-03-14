@@ -1,5 +1,7 @@
 # Jogo-da-velha
 
-[ X   X   O
-  O   X   X
-  O   0   O ]
+[ X   X   O <br>
+  O   X   X <br>
+  O   X   O ] <br>
+
+  Ganhei
